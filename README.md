@@ -1,2 +1,5 @@
 # hello-world
-interesting projects
+# interesting projects
+
+a = input("what do you like:")
+if a < 3
